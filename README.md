@@ -1,5 +1,6 @@
 # SlidingPuzzle
 Play and have fun!
+https://en.wikipedia.org/wiki/Sliding_puzzle
 
 #### Screenshots
 ![screen1](https://cloud.githubusercontent.com/assets/11690982/24333568/31d845c4-120f-11e7-82f0-a5e8c284bc61.png)
