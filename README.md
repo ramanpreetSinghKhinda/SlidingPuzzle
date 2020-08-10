@@ -28,10 +28,5 @@ https://en.wikipedia.org/wiki/Sliding_puzzle
 * [ButterKnife](http://jakewharton.github.io/butterknife/)
 * [Parceler](https://github.com/johncarl81/parceler)
 
-
 #### Developer
-Ramanpreet Singh Khinda (ramanpreetSinghKhinda@gmail.com)</br>
-
-Watch my digital resume here (Its more than just a resume. Doubt it? Just watch it...)
-
-http://prezi.com/gpxiyxfnops8/?utm_campaign=share&utm_medium=copy&rc=ex0share
+Ramanpreet Singh Khinda [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda)
